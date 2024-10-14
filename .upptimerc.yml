@@ -11,6 +11,10 @@ sites:
     url: https://branex.com
   - name: Branex UK
     url: https://branex.co.uk
+  - name: HostNoc Server
+    check: "tcp-ping"
+    url: 75.119.137.149 
+    port: 1444
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
