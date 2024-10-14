@@ -12,13 +12,6 @@ sites:
   - name: Branex UK
     url: https://branex.co.uk
 
-Servers:
-  - name: HostNoc Server
-  - url: main.hostnoc.com
-  - port: 2087
-    check: "tcp-ping"
-    ipv4: true
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
