@@ -14,7 +14,7 @@ sites:
   - name: HostNoc Server
     check: "tcp-ping"
     url: 75.119.137.149 
-    port: 1444
+    port: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
