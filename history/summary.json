@@ -58,19 +58,19 @@
     "url": "https://branex.ae",
     "icon": "https://icons.duckduckgo.com/ip3/branex.ae.ico",
     "slug": "branex-ae",
-    "status": "up",
-    "uptime": "52.13%",
-    "uptimeDay": "52.13%",
-    "uptimeWeek": "52.13%",
-    "uptimeMonth": "52.13%",
-    "uptimeYear": "52.13%",
-    "time": 1369,
-    "timeDay": 1369,
-    "timeWeek": 1369,
-    "timeMonth": 1369,
-    "timeYear": 1369,
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 974,
+    "timeDay": 974,
+    "timeWeek": 974,
+    "timeMonth": 974,
+    "timeYear": 974,
     "dailyMinutesDown": {
-      "2024-10-15": 10
+      "2024-10-15": 0
     }
   },
   {
