@@ -58,18 +58,20 @@
     "url": "https://branex.ae",
     "icon": "https://icons.duckduckgo.com/ip3/branex.ae.ico",
     "slug": "branex-ae",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 1403,
     "timeDay": 1403,
     "timeWeek": 1403,
     "timeMonth": 1403,
     "timeYear": 1403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-15": 0
+    }
   },
   {
     "name": "Branex UK",
