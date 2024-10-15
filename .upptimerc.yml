@@ -9,6 +9,8 @@ sites:
     url: https://antidos.com
   - name: Branex
     url: https://branex.com
+  - name: Branex AE
+    url: https://branex.ae
   - name: Branex UK
     url: https://branex.co.uk
   - name: HostNoc Server
