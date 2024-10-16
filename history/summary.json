@@ -4,9 +4,9 @@
     "url": "https://www.hostnoc.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.hostnoc.com.ico",
     "slug": "host-noc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3007,
     "timeMonth": 3007,
     "timeYear": 3007,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "AntiDos",
