@@ -13,6 +13,10 @@ sites:
     url: https://branex.ae
   - name: Branex UK
     url: https://branex.co.uk
+  - name: Storage Server
+    check: "tcp-ping"
+    url: 185.215.165.37
+    port: 22
   - name: HostNoc Server
     check: "tcp-ping"
     url: 75.119.137.149 
