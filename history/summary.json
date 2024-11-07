@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hostnoc.com.ico",
     "slug": "host-noc",
     "status": "down",
-    "uptime": "58.59%",
+    "uptime": "58.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.59%",
-    "uptimeYear": "58.59%",
+    "uptimeMonth": "58.55%",
+    "uptimeYear": "58.55%",
     "time": 3025,
     "timeDay": 86,
     "timeWeek": 118,
     "timeMonth": 3025,
     "timeYear": 3025,
     "dailyMinutesDown": {
-      "2024-11-07": 816,
+      "2024-11-07": 837,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/branex.com.ico",
     "slug": "branex",
     "status": "down",
-    "uptime": "99.02%",
-    "uptimeDay": "76.37%",
-    "uptimeWeek": "96.62%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptime": "98.96%",
+    "uptimeDay": "74.87%",
+    "uptimeWeek": "96.41%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.96%",
     "time": 761,
     "timeDay": 2525,
     "timeWeek": 1319,
     "timeMonth": 761,
     "timeYear": 761,
     "dailyMinutesDown": {
-      "2024-11-07": 341
+      "2024-11-07": 362
     }
   },
   {
@@ -80,10 +80,10 @@
     "url": "https://branex.ae",
     "icon": "https://icons.duckduckgo.com/ip3/branex.ae.ico",
     "slug": "branex-ae",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 2227,
@@ -92,7 +92,7 @@
     "timeMonth": 2227,
     "timeYear": 2227,
     "dailyMinutesDown": {
-      "2024-11-07": 31
+      "2024-11-07": 32
     }
   },
   {
@@ -101,18 +101,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/branex.co.uk.ico",
     "slug": "branex-uk",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "75.02%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptime": "98.90%",
+    "uptimeDay": "73.52%",
+    "uptimeWeek": "96.22%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 530,
     "timeDay": 2276,
     "timeWeek": 1105,
     "timeMonth": 530,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-11-07": 360
+      "2024-11-07": 382
     }
   },
   {
