@@ -244,19 +244,19 @@
     "url": "185.215.165.37",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "storage-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 91,
-    "timeWeek": 116,
-    "timeMonth": 114,
+    "timeDay": 121,
+    "timeWeek": 120,
+    "timeMonth": 116,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-05-18": 0
+      "2025-05-18": 15
     }
   },
   {
