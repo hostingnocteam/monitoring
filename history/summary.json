@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hostnoc.com.ico",
     "slug": "host-noc",
     "status": "up",
-    "uptime": "80.98%",
+    "uptime": "81.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.85%",
+    "uptimeYear": "83.05%",
     "time": 1130,
-    "timeDay": 965,
-    "timeWeek": 842,
-    "timeMonth": 798,
-    "timeYear": 790,
+    "timeDay": 1052,
+    "timeWeek": 896,
+    "timeMonth": 809,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2025-07-19": 559,
       "2025-06-11": 17,
@@ -78,8 +78,7 @@
       "2024-11-14": 1440,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
-      "2024-11-11": 1440,
-      "2024-11-10": 1440
+      "2024-11-11": 1440
     }
   },
   {
@@ -94,9 +93,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "98.03%",
     "time": 672,
-    "timeDay": 702,
-    "timeWeek": 459,
-    "timeMonth": 426,
+    "timeDay": 612,
+    "timeWeek": 497,
+    "timeMonth": 431,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-11-06": 20,
@@ -137,16 +136,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/branex.com.ico",
     "slug": "branex",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.20%",
     "time": 808,
-    "timeDay": 548,
-    "timeWeek": 373,
-    "timeMonth": 355,
-    "timeYear": 770,
+    "timeDay": 606,
+    "timeWeek": 417,
+    "timeMonth": 364,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2025-11-06": 20,
       "2025-10-31": 30,
@@ -177,8 +176,7 @@
       "2024-11-14": 1141,
       "2024-11-13": 586,
       "2024-11-12": 1127,
-      "2024-11-11": 962,
-      "2024-11-10": 1034
+      "2024-11-11": 962
     }
   },
   {
@@ -191,12 +189,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.56%",
-    "uptimeYear": "98.10%",
-    "time": 1264,
-    "timeDay": 956,
-    "timeWeek": 570,
-    "timeMonth": 467,
-    "timeYear": 1186,
+    "uptimeYear": "98.13%",
+    "time": 1263,
+    "timeDay": 954,
+    "timeWeek": 633,
+    "timeMonth": 477,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-11-06": 20,
       "2025-10-31": 30,
@@ -231,8 +229,7 @@
       "2024-11-23": 65,
       "2024-11-22": 43,
       "2024-11-21": 40,
-      "2024-11-11": 31,
-      "2024-11-10": 30
+      "2024-11-11": 31
     }
   },
   {
@@ -241,18 +238,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/branex.co.uk.ico",
     "slug": "branex-uk",
     "status": "up",
-    "uptime": "96.83%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "97.00%",
-    "time": 841,
-    "timeDay": 96,
-    "timeWeek": 623,
-    "timeMonth": 340,
-    "timeYear": 746,
+    "uptime": "96.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "97.15%",
+    "time": 840,
+    "timeDay": 92,
+    "timeWeek": 666,
+    "timeMonth": 338,
+    "timeYear": 709,
     "dailyMinutesDown": {
-      "2025-11-09": 10,
       "2025-11-02": 18,
       "2025-10-30": 33,
       "2025-10-24": 20,
@@ -277,8 +273,7 @@
       "2024-11-14": 1092,
       "2024-11-13": 976,
       "2024-11-12": 1094,
-      "2024-11-11": 1176,
-      "2024-11-10": 1075
+      "2024-11-11": 1176
     }
   },
   {
@@ -294,8 +289,8 @@
     "uptimeYear": "99.92%",
     "time": 121,
     "timeDay": 154,
-    "timeWeek": 126,
-    "timeMonth": 118,
+    "timeWeek": 134,
+    "timeMonth": 120,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-05-18": 420
@@ -312,10 +307,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 118,
-    "timeDay": 149,
-    "timeWeek": 120,
-    "timeMonth": 112,
+    "time": 119,
+    "timeDay": 151,
+    "timeWeek": 129,
+    "timeMonth": 114,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-06-11": 16,
