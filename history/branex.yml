@@ -1,7 +1,7 @@
 url: https://branex.com
-status: up
-code: 200
-responseTime: 1175
-lastUpdated: 2026-04-11T03:44:27.260Z
+status: down
+code: 415
+responseTime: 483
+lastUpdated: 2026-04-11T14:50:52.586Z
 startTime: 2024-10-14T10:13:35.613Z
 generator: Upptime <https://github.com/upptime/upptime>
