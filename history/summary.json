@@ -26,17 +26,17 @@
     "url": "https://antidos.com",
     "icon": "https://icons.duckduckgo.com/ip3/antidos.com.ico",
     "slug": "anti-dos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "78.93%",
+    "uptimeDay": "78.92%",
     "uptimeWeek": "90.27%",
     "uptimeMonth": "93.68%",
     "uptimeYear": "98.83%",
     "time": 542,
-    "timeDay": 394,
-    "timeWeek": 478,
-    "timeMonth": 438,
-    "timeYear": 458,
+    "timeDay": 429,
+    "timeWeek": 485,
+    "timeMonth": 442,
+    "timeYear": 459,
     "dailyMinutesDown": {
       "2026-04-12": 274,
       "2026-04-11": 222,
@@ -104,7 +104,7 @@
       "2025-07-18": 1082,
       "2025-07-16": 24,
       "2025-06-09": 101,
-      "2025-06-08": 21
+      "2025-06-08": 5
     }
   },
   {
@@ -112,16 +112,16 @@
     "url": "https://branex.com",
     "icon": "https://icons.duckduckgo.com/ip3/branex.com.ico",
     "slug": "branex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "78.96%",
+    "uptimeDay": "78.94%",
     "uptimeWeek": "90.27%",
     "uptimeMonth": "91.70%",
     "uptimeYear": "98.89%",
     "time": 523,
-    "timeDay": 898,
-    "timeWeek": 818,
-    "timeMonth": 632,
+    "timeDay": 839,
+    "timeWeek": 806,
+    "timeMonth": 628,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2026-04-12": 274,
@@ -188,8 +188,7 @@
       "2025-08-26": 20,
       "2025-08-25": 22,
       "2025-08-15": 23,
-      "2025-08-12": 23,
-      "2025-08-08": 25
+      "2025-08-12": 23
     }
   },
   {
@@ -288,14 +287,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "69.86%",
+    "uptimeYear": "69.85%",
     "time": 548,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 704,
     "timeYear": 384,
     "dailyMinutesDown": {
-      "2026-04-12": 966,
+      "2026-04-12": 1057,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
