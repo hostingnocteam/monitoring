@@ -295,17 +295,17 @@
     "url": "https://branex.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/branex.co.uk.ico",
     "slug": "branex-uk",
-    "status": "up",
-    "uptime": "69.91%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "69.93%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.34%",
+    "uptimeMonth": "70.55%",
     "uptimeYear": "48.76%",
-    "time": 390,
-    "timeDay": 622,
-    "timeWeek": 512,
-    "timeMonth": 376,
-    "timeYear": 456,
+    "time": 389,
+    "timeDay": 413,
+    "timeWeek": 474,
+    "timeMonth": 371,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2025-08-30": 21,
       "2025-09-11": 22,
@@ -507,7 +507,8 @@
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
-      "2026-05-21": 406
+      "2026-05-21": 406,
+      "2026-08-07": 0
     }
   },
   {
